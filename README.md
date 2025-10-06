@@ -127,21 +127,6 @@ me.say_hi()
 
 ---
 
-### 💡 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/islamroubache">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=islamroubache&repo=your-ai-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/islamroubache">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=islamroubache&repo=agritech-solution&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
-</a>
-
-</div>
-
----
 
 <div align="center">
 

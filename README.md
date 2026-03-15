@@ -132,7 +132,7 @@ me.say_hi()
 
 ## 🌐 Connect With Me
 
-<a href="https://linkedin.com/in/islam-roubache" target="_blank">
+<a href="https://www.linkedin.com/in/roubache-islam-915a46311/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://kaggle.com/roubacheislam" target="_blank">
